@@ -725,7 +725,7 @@ def pinterest_save():
             check_driver_open()
             no_Window_driver()
 pinterest()
-pinterest_save()
+#pinterest_save()
 try:
     driver.close()
 except:
